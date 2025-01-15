@@ -12,7 +12,7 @@ public final class Holidays {
 		return festival;
 	}
 	public int getNoOfLeaves() {
-		return noofLeaves;
+		return noOfLeaves;
 	}
 	public String toString() {
 		return "Festival: " + festival +", No of Leaves:" + noOfLeaves;
